@@ -1,6 +1,6 @@
 This is a MATLAB implementation of the algorithm LGD presented in the following paper. 
 
-Local gap density for clustering high-dimensional data.  
+Local gap density for clustering high-dimensional data with varying densities.  
 Ruijia Li, Xiaofei Yang, Xiaolong Qin, William Zhu. 
 https://www.sciencedirect.com/science/article/pii/S0950705119303636.
 
